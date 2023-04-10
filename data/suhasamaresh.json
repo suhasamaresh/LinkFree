@@ -1,0 +1,34 @@
+{
+			"name": "Suhas",
+			"type": "personal",
+			"bio": "Devops, web dev, RESTful API's",
+			"tags": [
+				"Open Source",
+				"Javascript",
+				"Devops",
+				"Machine learning",
+				"RESTful API's"
+			],
+			"links": [{
+					"name": "Follow me on Twitter",
+					"url": "https://twitter.com/suhasamaresh",
+					"icon": "FaTwitter"
+				},
+				{
+					"name": "Follow me on Instagram",
+					"url": "https://www.instagram.com/suhas446/",
+					"icon": "FaInstagram"
+				}, {
+					"name": "Follow me on LinkedIn",
+					"url": "https://www.linkedin.com/in/suhas-amaresh-a5a431228/",
+					"icon": "FaLinkedIn"
+				}
+
+
+			]
+		}
+
+
+
+	]
+}
